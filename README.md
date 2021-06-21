@@ -1,2 +1,2 @@
 # Robot-arm
-Installation Of Robot arm
+Installation Of Robot Arm
